@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container {
+    margin: 10px;
+    width: 65%;
+}
+
+.image {
+    width: 100%;
+}
+
+.description {
+    margin: 10px;
+    width: 35%;
+}
